@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @Seonu-Lim
-- 👀 I’m interested in Data Science, AI, ML, especially korean NLP, predictive data analysis or data visualization.
-- 🌱 I’m currently working at SK Inc. Materials as data scientist. (2021.03~)
-- 🌱 I’m collaborating on NLP projects at Avocadoland (Momory) as my side project. (2022.09~)
-- Check out my Notion CV : <https://bit.ly/3tm1BV2>
+# 👋 Hi, I’m @Seonu-Lim
+- 👀 I’m interested in Data Science, AI, ML, especially generative agents, predictive data analysis and data visualization.
+- 🌱 I am currently working at a korean startup named *Avocadoland* as a data scientist. (2023.07~)
+  - 💡 Avocadoland's iOS App, *Momory*, is a mood tracking app (with cute items and characters!)
+  - 🥕 I analyze Momory App user data for product insights.
+  - 🥕 I am developing a therapist chatbot with long-term memory.
+  - 🥕 I make algorithms for data-driven contents in Momory App.
+  - 🥕 ...and so much more, since we are a small team.
+- 🌱 I worked at *SK Inc. Materials* as a data scientist. (2021.03~2023.07)
+  - 💡 It is a holding company that owns specialty gas manufacturing subsidiaries in Korea.
+  - 🥕 I teached company staffs basics of python and data analysis as a main instructor.
+  - 🥕 I did vision recognition tasks in CCTV footages.
+  - 🥕 I made accurate OCR system to automate document analysis using PaddleOCR, tesseract and opencv.
+  - 🥕 I optimized some gas manufacturing processes.
+  - 🥕 I did a proof-of-concept for molecular property prediction with SMILES representation string.
+- 🌱 I started collaborating on NLP projects at Avocadoland (Momory) as my side project. (2022.09~)
+- 👩🏻‍🎓 I have Bachelor's and Master's Degree in Statistics. Also, I minored in Business Administration during my undergraduate studies.
+- 💻 I am familiar with `python`, `R`, and `SQL`. I mostly work with `python` within linux environments. 
+- 💻 I am getting used to `MS Azure` and `AWS`.
 
+  
+# 📞 Contact Me!
+- In case you have questions...
 - 📫 private mail : 2013101066sw@gmail.com
-- 📫 business mail : seonwoo.lim@sk.com
+- 📫 business mail : seonwoo.lim@avocado.land
+- Check out my self-introduction page : <https://bit.ly/3tm1BV2>
+- Aaaand my blog!(written in korean) : [https://seonu-lim.github.io](https://seonu-lim.github.io/)
