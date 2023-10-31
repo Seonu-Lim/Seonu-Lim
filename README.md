@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, AI, ML, especially generative agents, predictive data analysis and data visualization.
 - 🌱 I am currently working at a korean startup named *Avocadoland* as a data scientist. (2023.07~)
   - 💡 Avocadoland's iOS App, *Momory*, is a mood tracking app (with cute items and characters!)
-  - Aalyze Momory App user data for product insights.
+  - Analyze Momory App user data for product insights.
   - Develop a therapist chatbot with long-term memory.
   - Make algorithms for data-driven contents in Momory App.
   - ...and so much more, since we are a small team.
