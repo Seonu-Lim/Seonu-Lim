@@ -23,5 +23,5 @@
 - In case you have questions...
 - 📫 private mail : 2013101066sw@gmail.com
 - 📫 business mail : seonwoo.lim@avocado.land
-- Check out my self-introduction page : <https://bit.ly/3tm1BV2>
+- Check out my self-introduction page : [Korean](https://bit.ly/3tm1BV2) [English](https://bit.ly/3SzVvOC)
 - Aaaand my blog!(written in korean) : [https://seonu-lim.github.io](https://seonu-lim.github.io/)
