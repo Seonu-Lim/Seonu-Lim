@@ -1,4 +1,5 @@
 # 👋 Hi, I’m @Seonu-Lim
+
 - 👀 I’m interested in Data Science, AI, ML, especially generative agents, predictive data analysis and data visualization.
 - 🌱 I am currently working at a korean startup named *Avocadoland* as a data scientist. (2023.07~)
   - 💡 Avocadoland's iOS App, *Momory*, is a mood tracking app (with cute items and characters!)
@@ -13,14 +14,13 @@
   - Made accurate OCR system to automate document analysis using PaddleOCR, tesseract and opencv.
   - Optimized some gas manufacturing processes.
   - Did a proof-of-concept for molecular property prediction with SMILES representation string.
-- 🌱 I started collaborating on NLP projects at Avocadoland (Momory) as my side project. (2022.09~)
 - 👩🏻‍🎓 I have Bachelor's and Master's Degree in Statistics. Also, I minored in Business Administration during my undergraduate studies.
 - 💻 I am familiar with `python`, `R`, and `SQL`. I mostly work with `python` within linux environments. 
 - 💻 I am getting used to `MS Azure` and `AWS`.
-
+- 
+![Seonu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Seonu-Lim&show_icons=true&theme=panda)
   
 # 📞 Contact Me!
-- In case you have questions...
 - 📫 private mail : 2013101066sw@gmail.com
 - 📫 business mail : seonwoo.lim@avocado.land
 - Check out my self-introduction page : [Korean](https://bit.ly/3tm1BV2) [English](https://bit.ly/3SzVvOC)
