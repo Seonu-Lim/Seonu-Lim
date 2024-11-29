@@ -10,5 +10,4 @@
 # 📞 Contact Me!
 - 📫 private mail : 2013101066sw@gmail.com
 - 📫 business mail : seonwoo.lim@avocado.land
-- Check out [my self-introduction page](https://seonu-lim.netlify.app/)
 - Aaaand my blog!(written in korean) : [https://seonu-lim.github.io](https://seonu-lim.github.io/)
